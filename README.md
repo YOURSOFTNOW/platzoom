@@ -16,7 +16,7 @@ intercalando letras mayusculas y minusculas
 
 ## Instalacion
 ```
-npm install platzom
+npm install platzooom
 ```
 
 
