@@ -33,7 +33,7 @@ platzom("sometemos") //SoMeTeMos
 ```
 
 ## Creditos
-- [Emilio Torrez](https://facebook.com/emiliotorrez)
+- [Emilio Torrez](https://www.facebook.com/emilio.torrez.184)
 
 ## Licencia
 [MIT](https://opensource.org/licenses/MIT)
